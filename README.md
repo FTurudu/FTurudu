@@ -1,0 +1,5 @@
+- 👋 Merhaba ben, Fatih.
+- 👀 Python, C# ve SQL ile ilgileniyorum.
+- 🌱 Şuan da Kendimi Laravel üzerinde geliştiriyorum.
+- 💞️ Alanlarımla alakalı her hangi bir konu da yardım edebilirim.
+- 📫 Bana fatihturudu037@gmail.com mail adresinden ulaşabilirsiniz.
